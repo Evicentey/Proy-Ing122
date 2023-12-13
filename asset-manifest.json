@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Proy-Ing122/static/css/main.6eaa0011.css",
+    "main.js": "/Proy-Ing122/static/js/main.1dd62d95.js",
+    "static/js/787.12f3fc55.chunk.js": "/Proy-Ing122/static/js/787.12f3fc55.chunk.js",
+    "static/media/01.jpg": "/Proy-Ing122/static/media/01.8690e3a3f454a27f99d1.jpg",
+    "static/media/Python.jpg": "/Proy-Ing122/static/media/Python.114d30187362e0ef7051.jpg",
+    "static/media/bootstrap.css.map": "/Proy-Ing122/static/media/bootstrap.css.928480d38a08ae3aea17.map",
+    "static/media/client-bg.jpg": "/Proy-Ing122/static/media/client-bg.bf4aedbce4d770656999.jpg",
+    "static/media/00.png": "/Proy-Ing122/static/media/00.018a1d7f5b1bc8734207.png",
+    "static/media/Logo.png": "/Proy-Ing122/static/media/Logo.212de8d7278260fca353.png",
+    "static/media/Java.jpg": "/Proy-Ing122/static/media/Java.862249879ae851305c8a.jpg",
+    "static/media/03.jpg": "/Proy-Ing122/static/media/03.8ad2d32574bb7c6d494b.jpg",
+    "static/media/04.jpg": "/Proy-Ing122/static/media/04.7a4b51220b55feeac42f.jpg",
+    "static/media/CShrarp.jpg": "/Proy-Ing122/static/media/CShrarp.37b135f8309ba59289b4.jpg",
+    "static/media/02.jpg": "/Proy-Ing122/static/media/02.54b936d502a4088fc5ab.jpg",
+    "static/media/00.jpg": "/Proy-Ing122/static/media/00.4fc1e3ae209463dc5f9b.jpg",
+    "static/media/08.jpg": "/Proy-Ing122/static/media/08.099add201942e5117eb7.jpg",
+    "static/media/05.jpg": "/Proy-Ing122/static/media/05.0400d163ad98c13cc38d.jpg",
+    "static/media/Home.jpg": "/Proy-Ing122/static/media/Home.2281fd55bdc5dddefb4a.jpg",
+    "static/media/07.jpg": "/Proy-Ing122/static/media/07.d95820702d0150b13c65.jpg",
+    "static/media/JScript.jpg": "/Proy-Ing122/static/media/JScript.54b936d502a4088fc5ab.jpg",
+    "static/media/01.webp": "/Proy-Ing122/static/media/01.d1491b58b68a7cab0412.webp",
+    "index.html": "/Proy-Ing122/index.html",
+    "main.6eaa0011.css.map": "/Proy-Ing122/static/css/main.6eaa0011.css.map",
+    "main.1dd62d95.js.map": "/Proy-Ing122/static/js/main.1dd62d95.js.map",
+    "787.12f3fc55.chunk.js.map": "/Proy-Ing122/static/js/787.12f3fc55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eaa0011.css",
+    "static/js/main.1dd62d95.js"
+  ]
+}
